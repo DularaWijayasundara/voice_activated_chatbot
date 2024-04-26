@@ -7,7 +7,7 @@ This project implements a voice-activated chatbot using OpenAI's GPT-3.5 model. 
 1. **Install the required dependencies:**
    - `pyttsx3`
    - `speech_recognition`
-   - `OpenAI`:
+   - `OpenAI`
 
 2. **Obtain an API key from OpenAI:**
   
